@@ -1,0 +1,42 @@
+_repo: Les-liaisons-dangereuses-volume-2-of-2-or-letters-collected-in-a-private-society-and-publishe__69913
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dowson, Ernest Christopher
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '2775'
+    url: http://www.gutenberg.org/2009/agents/2775
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Dowson
+creator:
+  author:
+    agent_name: Laclos, Choderlos de
+    aliases:
+    - Choderlos de Laclos, Pierre-Ambroise-François
+    - Choderlos de Laclos, Pierre-Ambroise-Francois
+    - DeLaclos, C. (Choderlos)
+    - Laclos, Pierre Choderlos de
+    birthdate: 1741
+    deathdate: 1803
+    gutenberg_agent_id: '43328'
+    url: http://www.gutenberg.org/2009/agents/43328
+description: ''
+gutenberg_issued: '2023-01-30'
+identifiers:
+  gutenberg: '69913'
+language: en
+pgterms:marc904: https://www.pgdp.net/c/project.php?id=projectID469635a2418ce&detail_level=3
+pgterms:marc905: 20070630183011delaclos
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: Adam Buchbinder, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: 'United Kingdom: Privately printed,1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les liaisons dangereuses, volume 2 (of 2): or, letters collected in a private
+  society and published for the instruction of others'
+url: http://www.gutenberg.org/ebooks/69913
