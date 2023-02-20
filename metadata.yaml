@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2775'
     url: http://www.gutenberg.org/2009/agents/2775
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Dowson
+covers:
+- cover_type: archival
+  image_path: 69913-h/images/cover.jpg
 creator:
   author:
     agent_name: Laclos, Choderlos de
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '43328'
     url: http://www.gutenberg.org/2009/agents/43328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69913#Les-liaisons-dangereuses-volume-2-of-2-or-letters-collected-in-a-private-society-and-publishe_
 gutenberg_issued: '2023-01-30'
 identifiers:
   gutenberg: '69913'
